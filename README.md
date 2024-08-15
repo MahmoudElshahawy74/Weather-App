@@ -43,3 +43,5 @@ SwiftUI Practices
 	•	State Management: Demonstrates state management using @State and @Binding.
 	•	Responsive Layout: Utilizes SwiftUI’s flexible layout system to create a responsive design that adapts to different screen sizes.
 	•	Modern SwiftUI: Implements the latest SwiftUI features like .ignoresSafeArea() and .symbolRenderingMode(.multicolor) for better UI design and functionality.
+Demo
+https://github.com/user-attachments/assets/a4672a43-8c06-423d-ae40-ffbe1f0f701f
